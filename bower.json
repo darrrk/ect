@@ -1,7 +1,7 @@
 {
   "name": "ect",
   "main": "ect.min.js",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "homepage": "https://github.com/baryshev/ect",
   "authors": [
     "Vadim M. Baryshev <vadimbaryshev@gmail.com>"
